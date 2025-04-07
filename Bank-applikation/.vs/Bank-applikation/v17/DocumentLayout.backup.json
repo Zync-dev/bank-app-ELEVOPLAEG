@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lukas\\source\\repos\\Bank-applikation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4C266A-C669-4259-92AF-7C9FB798BCBD}|Bank-applikation\\Bank-applikation.csproj|c:\\users\\lukas\\source\\repos\\bank-applikation\\bank-applikation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4C266A-C669-4259-92AF-7C9FB798BCBD}|Bank-applikation\\Bank-applikation.csproj|solutionrelative:bank-applikation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4C266A-C669-4259-92AF-7C9FB798BCBD}|Bank-applikation\\Bank-applikation.csproj|c:\\users\\lukas\\source\\repos\\bank-applikation\\bank-applikation\\copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4C266A-C669-4259-92AF-7C9FB798BCBD}|Bank-applikation\\Bank-applikation.csproj|solutionrelative:bank-applikation\\copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Copy.cs",
+              "DocumentMoniker": "C:\\Users\\Lukas\\source\\repos\\Bank-applikation\\Bank-applikation\\Copy.cs",
+              "RelativeDocumentMoniker": "Bank-applikation\\Copy.cs",
+              "ToolTip": "C:\\Users\\Lukas\\source\\repos\\Bank-applikation\\Bank-applikation\\Copy.cs",
+              "RelativeToolTip": "Bank-applikation\\Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:22:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lukas\\source\\repos\\Bank-applikation\\Bank-applikation\\Program.cs",
+              "RelativeDocumentMoniker": "Bank-applikation\\Program.cs",
+              "ToolTip": "C:\\Users\\Lukas\\source\\repos\\Bank-applikation\\Bank-applikation\\Program.cs",
+              "RelativeToolTip": "Bank-applikation\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:13:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
