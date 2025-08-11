@@ -92,7 +92,7 @@ namespace Bank_applikation
             using (MySqlCommand cmd = new MySqlCommand(query, conn))
             {
                 cmd.Parameters.AddWithValue("@username", username);
-                cmd.Parameters.AddWithValue("@password", password); // Consider hashing the password
+                cmd.Parameters.AddWithValue("@password", password);
 
                 int rows = cmd.ExecuteNonQuery();
                 Console.WriteLine(rows > 0 ? $"Bruger {username} oprettet!" : "Oprettelse mislykkedes.");

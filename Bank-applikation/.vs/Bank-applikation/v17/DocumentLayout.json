@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lukas\\Documents\\GitHub\\bank-app-ELEVOPLAEG\\Bank-applikation\\Bank-applikation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank-applikation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lukas\\Documents\\GitHub\\bank-app-ELEVOPLAEG\\Bank-applikation\\Bank-applikation\\Copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank-applikation\\Copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Copy.cs",
+              "DocumentMoniker": "C:\\Users\\Lukas\\Documents\\GitHub\\bank-app-ELEVOPLAEG\\Bank-applikation\\Bank-applikation\\Copy.cs",
+              "RelativeDocumentMoniker": "Bank-applikation\\Copy.cs",
+              "ToolTip": "C:\\Users\\Lukas\\Documents\\GitHub\\bank-app-ELEVOPLAEG\\Bank-applikation\\Bank-applikation\\Copy.cs",
+              "RelativeToolTip": "Bank-applikation\\Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:40:21.004Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Bank-applikation\\Program.cs",
               "ToolTip": "C:\\Users\\Lukas\\Documents\\GitHub\\bank-app-ELEVOPLAEG\\Bank-applikation\\Bank-applikation\\Program.cs",
               "RelativeToolTip": "Bank-applikation\\Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAawGUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGEAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T12:13:25.489Z",
               "EditorCaption": ""
